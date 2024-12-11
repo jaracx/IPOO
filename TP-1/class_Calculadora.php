@@ -9,7 +9,7 @@ clase.
 */ 
 
 // creo la clase calculadora
-class calculadora{
+class Calculadora{
   //atributos
  private $numero1;
  private $numero2;
